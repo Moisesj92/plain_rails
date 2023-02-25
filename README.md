@@ -1,2 +1,3 @@
 # plain_rails
-This is a example plain proyect to test digital ocean integration 
+
+This is a example plain project to test digital ocean integration
